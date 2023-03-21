@@ -1,3 +1,4 @@
+![space-age](https://user-images.githubusercontent.com/44240533/226492648-ea542954-6328-43b8-8500-8cebc6f40db5.svg)
 # Space Age
 
 Welcome to Space Age on Exercism's Java Track.
